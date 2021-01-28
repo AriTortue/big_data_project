@@ -29,6 +29,14 @@ Couples de chaînes de caractères et entiers séparés par des virgules: string
 
 ## **Deuxième niveau d'analyse des données**
 Biais etc
+Mesures de fairness appliquées : 
+* aux données labelisées du jeu de test 
+
+* à vos prédictions sur le jeu de test
+
+Le but est de conclure si le modèle est plus biaisé que la réalité (écart entre les deux scores).
+Au-delà des valeurs moyennes comparées, il est aussi possible de comparer classe par classe la disparité :
+* 
 
 ## **Etapes à réaliser**
 * Etape 0 : Données sur Hadoop.

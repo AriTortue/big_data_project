@@ -1,7 +1,7 @@
 # big_data_project
 Big Data Project / FISE 3 OPT INFO2
 
-##**Objectifs**
+## **Objectifs**
 Le but de ce projet est de prédire le métier recherché à partir d’un extrait de CV d’une personne. 
 Il y a 28 catégories de postes.
 
@@ -9,7 +9,7 @@ D’abord, nous devons utiliser dans nos modèles la moyenne arithmétique des s
 
 De plus, il nous faut prendre en compte le genre des personnes et limiter le biais de prédiction lié au genre.
 
-##**Premier niveau d’analyse des données**
+## **Premier niveau d’analyse des données**
 Nous avons accès à des données aux formats JSon et CSV.
 Nous avons des informations sur le genre de chaque individu.
 
@@ -27,10 +27,10 @@ Association des labels des postes (chaînes de caractères) avec l’identifiant
 Couples de chaînes de caractères et entiers séparés par des virgules: string,int.
 29 lignes.
 
-##**Deuxième niveau d'analyse des données**
+## **Deuxième niveau d'analyse des données**
 Biais etc
 
-##**Etapes à réaliser**
+## **Etapes à réaliser**
 * Etape 0 : Données sur Hadoop.
 
 * Etape 1 : Script pour récupérer les données en local.

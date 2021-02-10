@@ -60,6 +60,6 @@ Au-delà des valeurs moyennes comparées, il est aussi possible de comparer clas
   * Mettre en place une base de données MongoDB.
   * Utilisation de la commande : 
   ```
-      mongoimport --host "hostname de l'ec2" --port 27017 --db "nom de la database" --collection "nom de la collection" --file "chemin d'accès du fichier à importer
+      mongoimport --host "hostname de l'ec2" --port 27017 --db "nom de la database" --collection "nom de la collection" --file "chemin d'accès du fichier à importer"
   ```
 

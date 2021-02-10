@@ -15,4 +15,4 @@ Cependant, nous avons dû mettre le chemin de la paire de clés en dur (ici, /ho
 
 ## 4) Export des données traitées vers mongodb
 
-Pour exporter nos données vers mongodb, nous avons utilisé la commande mongoimport --uri "URIdeConnexion" --drop --collection nomDeLaCollection --file pathDuFichier.
+Pour exporter nos données vers mongodb, nous avons utilisé le script [exportEC2toMongoDB.sh](https://github.com/AriTortue/big_data_project/blob/main/exportEC2toMongoDB.sh). Il faut fournir au script l'hostname de l'ec2, le port sur lequel mongodb est en cours d'exécution, le nom de la database, le nom de la collection et le chemin d'accès du fichier à importer.

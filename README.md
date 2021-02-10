@@ -58,8 +58,6 @@ Au-delà des valeurs moyennes comparées, il est aussi possible de comparer clas
   
 * Etape 5 : Déplacement des données résultats vers une BDD NoSQL.
   * Mettre en place une base de données MongoDB.
-  * Utilisation de la commande : 
-  ```
-      mongoimport --host "hostname de l'ec2" --port 27017 --db "nom de la database" --collection "nom de la collection" --file "chemin d'accès du fichier à importer"
-  ```
+  * Utilisation d'un script d'export vers MongoDB 
+ 
 

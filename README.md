@@ -35,8 +35,8 @@ Mesures de fairness appliquées :
 * aux prédictions sur le jeu de test
 
 Le but est de conclure si le modèle est plus biaisé que la réalité (écart entre les deux scores).
-Au-delà des valeurs moyennes comparées, il est aussi possible de comparer classe par classe la disparité :
-* blabla
+
+On compare donc la répartition des postes entre femmes et hommes dans les données d'origine et dans les données prédites.
 
 ## **Etapes à réaliser**
 * Etape 0 : Données sur Hadoop.

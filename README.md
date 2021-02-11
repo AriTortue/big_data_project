@@ -61,5 +61,5 @@ On compare donc la répartition des postes entre femmes et hommes dans les donn�
  
 ## Documentation annexe
 * *AWS_README* : rapide description des étapes à mettre en place pour l'utilisation d'AWS dans le cadre du projet et explication de certains choix.
-* *README_scripts* :
+* *README_scripts* : description des cas d'utilisation de chacun des scripts.
 * 

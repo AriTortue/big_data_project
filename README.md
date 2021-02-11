@@ -37,6 +37,8 @@ Le but est de conclure si le modèle est plus biaisé que la réalité (écart e
 
 On compare donc la répartition des postes entre femmes et hommes dans les données d'origine et dans les données prédites.
 
+(cf Documentation Machine Learning)
+
 ## **Etapes à réaliser**
 * Etape 0 : Données sur Hadoop.
 

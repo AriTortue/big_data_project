@@ -15,19 +15,19 @@ avec pénalité L1 et L2 : SGD(​Stochastic Gradient Descent​) Classifier et 
 
 ### Choix
 
-L’algorithme choisi suite à cette phase de tests : SVM avec pénalité L
+L’algorithme choisi suite à cette phase de tests : SVM avec pénalité L2
 
 ## Résultats
 
 ### Performance
 
-- Précision proche de 80%
+- Précision proche de 79%
 - Temps d’entraînement et de classification pas trop grands
-- Score F1 Macro : 0.
+- Score F1 Macro : 0.716
 
 ### Biais de prédiction
 
-- Disparate impact données réelles : 3.
-- DIsparate impact données prédites : 3.
+- Disparate impact données réelles : 3.9
+- DIsparate impact données prédites : 3.08
 
 

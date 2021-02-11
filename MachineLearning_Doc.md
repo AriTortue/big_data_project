@@ -30,4 +30,5 @@ L’algorithme choisi suite à cette phase de tests : SVM avec pénalité L2
 - Disparate impact données réelles : 3.9
 - DIsparate impact données prédites : 3.08
 
+=> Aucun biais ajouté
 

@@ -28,7 +28,6 @@ Couples de chaînes de caractères et entiers séparés par des virgules: string
 29 lignes.
 
 ## **Deuxième niveau d'analyse des données**
-Biais etc
 Mesures de fairness appliquées : 
 * aux données labelisées du jeu de test 
 
